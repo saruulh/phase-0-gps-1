@@ -1,4 +1,4 @@
-**clone** - to download a repo to your local computer
+**clone - to download a repo to your local computer**
 
 *add* - to stage the edited file
 
