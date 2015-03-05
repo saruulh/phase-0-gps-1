@@ -2,7 +2,7 @@
 
 *add* - to stage the edited file
 
-'commit' - to submit the staged files
+`commit` - to submit the staged files
 
 push - to upload the committed file to github
 
