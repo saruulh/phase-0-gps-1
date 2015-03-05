@@ -8,3 +8,6 @@ push - to upload the committed file to github
 
 [checkout](#) -b - to add a new branch to repo
 
+
+conflict test
+
